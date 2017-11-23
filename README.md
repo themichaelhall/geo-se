@@ -1,5 +1,12 @@
 # Swedish geography data
 
+[![Build Status](https://travis-ci.org/themichaelhall/geo-se.svg?branch=master)](https://travis-ci.org/themichaelhall/geo-se)
+[![codecov.io](https://codecov.io/gh/themichaelhall/geo-se/coverage.svg?branch=master)](https://codecov.io/gh/themichaelhall/geo-se?branch=master)
+[![StyleCI](https://styleci.io/repos/111851543/shield?style=flat)](https://styleci.io/repos/111851543)
+[![License](https://poser.pugx.org/michaelhall/geo-se/license)](https://packagist.org/packages/michaelhall/geo-se)
+[![Latest Stable Version](https://poser.pugx.org/michaelhall/geo-se/v/stable)](https://packagist.org/packages/michaelhall/geo-se)
+[![Total Downloads](https://poser.pugx.org/michaelhall/geo-se/downloads)](https://packagist.org/packages/michaelhall/geo-se)
+
 Classes for swedish geography data.
 
 ## Requirements

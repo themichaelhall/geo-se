@@ -1,0 +1,34 @@
+{
+  "name": "michaelhall/geo-se",
+  "description": "Swedish geography data",
+  "license": "MIT",
+  "keywords": [
+    "sweden",
+    "swedish",
+    "geography",
+    "municipality",
+    "region"
+  ],
+  "authors": [
+    {
+      "name": "Michael Hall",
+      "homepage": "https://michaelhall.se/"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "MichaelHall\\GeoSe\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "MichaelHall\\GeoSe\\Tests\\": "tests"
+    }
+  }
+}
